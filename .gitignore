@@ -1,0 +1,4 @@
+node_modules
+.idea
+.gulp-cache
+dist
